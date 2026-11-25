@@ -8,4 +8,8 @@
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="..\TestProject1\UnitTest1.cs" Link="UnitTest1.cs" />
+  </ItemGroup>
+
 </Project>
